@@ -2083,11 +2083,13 @@ ol {
   background-color: #101130;
   padding: 200px 0 150px 0;
   padding-bottom: 240px;
-  background-image: url("https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/images/hero/hero-bg.jpg");
+  background-image: url("../images/hero/hero-bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
+
+
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .hero-area {
