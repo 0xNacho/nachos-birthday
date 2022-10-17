@@ -6,8 +6,8 @@ Author: lineicons.com
 -------------------------------- */
 @font-face {
   font-family: 'LineIcons';
-  src: url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/LineIcons.eot');
-  src: url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/LineIcons.eot') format('embedded-opentype'), url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/LineIcons.woff2') format('woff2'), url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/LineIcons.woff') format('woff'), url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/LineIcons.ttf') format('truetype'), url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/LineIcons.svg') format('svg');
+  src: url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/fonts/LineIcons.eot');
+  src: url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/fonts/LineIcons.eot') format('embedded-opentype'), url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/fonts/LineIcons.woff2') format('woff2'), url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/fonts/LineIcons.woff') format('woff'), url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/fonts/LineIcons.ttf') format('truetype'), url('https://htmlpreview.github.io/?https://github.com/0xNacho/nachos-birthday/blob/main/assets/fonts/LineIcons.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
